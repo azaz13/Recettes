@@ -1,6 +1,6 @@
 #recette du mojito
 
-##ingredients
+##ingredients 2 fois plus d'ingredient
 
 ## etapes :
 
