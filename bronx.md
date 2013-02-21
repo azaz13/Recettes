@@ -3,6 +3,8 @@
 À écrire...
 
 ## Ingredient :
+ingredient 1 oz
+ingredient 2 oz
 
 ## Etapes:
 1- etapes 
