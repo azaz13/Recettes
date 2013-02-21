@@ -2,8 +2,8 @@
 
 À écrire...
 
-Ingredient :
+## Ingredient :
 
-Etapes:
+## Etapes:
 1- etapes 
 2- etapes 
