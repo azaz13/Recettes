@@ -7,10 +7,10 @@ ingredient 1 oz
 ingredient 2 oz
 
 ## Etapes:
-1- etapes 
-2- etapes 
+1- schtroumpf 
+2- schtroumpf
 
 
 ##version 1:
-##ingredient:
-##etapes:
+##ingredient:schtroumpf.schtroumpf.
+##etapes:schtroumpf.schtroumpf.schtroumpf.schtroumpf.schtroumpf.schtroumpf.schtroumpf.
