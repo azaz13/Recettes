@@ -13,4 +13,4 @@ ingredient 2 oz
 
 ##version 1:
 ##ingredient:schtroumpf.schtroumpf.
-##etapes:schtroumpf.schtroumpf.schtroumpf.schtroumpf.schtroumpf.schtroumpf.schtroumpf.
+##etapes:zazazazazazazazazaza
